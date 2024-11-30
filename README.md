@@ -13,6 +13,8 @@
   - Tactical perspective -> similar to Football Manager's sideway view (a bit elevated in height and covers the whole field).
 - Field dimension should be 100x100 in Cartesian plane.
 - Have the ability to pause at each action.
+- Nodes for Godot project:
+  ![Godot project nodes](./nodes/Godot_nodes_v1.png)
 
 ### Steps
 
