@@ -30,3 +30,7 @@
    - Walking
 5. [] Bring model to Godot Engine + put models onto a pitch.
 6. [] Use the data and get the models to run based on the coordinates from the tracking data.
+
+### Useful links
+
+- [Colab notebook for Opta Forum 2023](https://colab.research.google.com/drive/1jySoiZj885KzuEBgXA2vZ7mG76TUWFCM)

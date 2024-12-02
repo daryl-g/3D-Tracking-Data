@@ -1,2 +1,8 @@
-# Folders
-.venv
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Specific folders
+.venv/
+.vscode/
+data/
